@@ -278,7 +278,7 @@
       <id>css</id>
       <build>
         <plugins>
-          
+
         </plugins>
       </build>
     </profile>
