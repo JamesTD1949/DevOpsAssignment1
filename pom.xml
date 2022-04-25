@@ -61,6 +61,13 @@
       <scope>test</scope>
     </dependency>
 
+    <!-- Dependency for AWS -->
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-lambda-java-core</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+
     <!-- Databases - Uses H2 by default -->
     <dependency>
       <groupId>com.h2database</groupId>
